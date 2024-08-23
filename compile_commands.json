@@ -1,0 +1,13 @@
+[{
+  "file": "E:\\Workspaces\\Project\\Project\\main.cpp",
+  "directory": "E:\\Workspaces\\Project\\Project",
+  "command": "C:/mingw64/bin/g++.exe -c E:\\Workspaces\\Project\\Project\\main.cpp -o E:\\Workspaces\\Project\\Project\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -IC:\\mingw64\\bin\\mingw\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "E:\\Workspaces\\Project\\Project\\Student.cpp",
+  "directory": "E:\\Workspaces\\Project\\Project",
+  "command": "C:/mingw64/bin/g++.exe -c E:\\Workspaces\\Project\\Project\\Student.cpp -o E:\\Workspaces\\Project\\Project\\Student.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -IC:\\mingw64\\bin\\mingw\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "E:\\Workspaces\\Project\\Project\\Student.h",
+  "directory": "E:\\Workspaces\\Project\\Project",
+  "command": "C:/mingw64/bin/g++.exe -c E:\\Workspaces\\Project\\Project\\Student.h -o E:\\Workspaces\\Project\\Project\\Student.h.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -IC:\\mingw64\\bin\\mingw\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
